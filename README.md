@@ -2,13 +2,13 @@
 
 </br>
 
-### <div align="center">I'm Ana, a Junior Full-Stack Web Developer in progress 🚀</div> 
+### <div align="center">I'm Ana, a Junior Full-Stack Web Developer </div> 
 
 </br>
 
 
 - 🔭 I’m currently working on various projects in Factoría F5 
-- 🌱 I’m currently learning PHP Laravel
+- 🌱 I’m currently learning Java
 - ❓ Ask me about anything related to web development
 
 <br/> 
