@@ -2,13 +2,14 @@
 
 </br>
 
-### <div align="center">I'm Ana, a Junior Full-Stack Web Developer </div> 
+### <div align="center">I'm Ana, a Full-Stack Web Developer </div> 
 
 </br>
 
 
-- 🔭 I’m currently working on various projects in Factoría F5 
-- 🌱 I’m currently learning Java
+- 🔭 I finished a **Full Stack Web Development Bootcamp** - FemCoders Factoria f5
+- 📖 Working with **Agile & SCRUM Methodologies**
+- 🌱 I’m currently learning **Java Spring Boot**
 - ❓ Ask me about anything related to web development
 
 <br/> 
@@ -52,7 +53,9 @@
 ## Github stats
 <div align="center">
 
-![anaruedaguiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaruedaguiu&count_private=true&show_icons=true&theme=gruvbox)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaruedaguiu&langs_count=8&hide=blade,shell&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![anaruedaguiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaruedaguiu&count_private=true&show_icons=true&theme=gruvbox)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaruedaguiu&langs_count=8&hide=blade,shell&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
